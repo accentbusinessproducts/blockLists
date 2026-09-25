@@ -11,14 +11,14 @@ The individual feeds are intended to be added as separate Source Definitions ins
 | Censys | `ipv4/censys.txt` | 1296 |
 | Digital Ocean | `ipv4/digital_ocean.txt` | 1005 |
 | Shadowserver | `ipv4/shadowserver.txt` | 782 |
-| Google | `ipv4/google.txt` | 930 |
+| Google | `ipv4/google.txt` | 1001 |
 | VPN/Proxy | `ipv4/vpn_proxy.txt` | 630 |
-| Misc | `ipv4/misc.txt` | 647 |
-| Amazon | `ipv4/amazon.txt` | 726 |
-| Cloud Hosted | `ipv4/cloud_hosted.txt` | 172 |
-| Stretchoid | `ipv4/stretchoid.txt` | 164 |
-| Linode | `ipv4/linode.txt` | 211 |
-| Alicloud | `ipv4/alicloud.txt` | 137 |
+| Misc | `ipv4/misc.txt` | 648 |
+| Amazon | `ipv4/amazon.txt` | 729 |
+| Cloud Hosted | `ipv4/cloud_hosted.txt` | 202 |
+| Stretchoid | `ipv4/stretchoid.txt` | 169 |
+| Linode | `ipv4/linode.txt` | 213 |
+| Alicloud | `ipv4/alicloud.txt` | 138 |
 | Binaryedge | `ipv4/binaryedge.txt` | 43 |
 
-Total unique addresses: 6743
+Total unique addresses: 6856
